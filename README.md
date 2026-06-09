@@ -31,7 +31,7 @@ The application provides a simple interface for managing library data through CR
 * Select book location using radio buttons
 * Display borrowing records in a table
 
-## Tech Stack
+## Built With
 
 * Java
 * Java Swing

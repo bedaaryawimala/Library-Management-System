@@ -53,7 +53,6 @@ The application provides a simple interface for managing library data through CR
 * Search Feature
 * DAO Pattern
 * Controller Layer
-* Java Swing GUI
 * MySQL Database Integration
 * Custom Table Model using `AbstractTableModel`
 
